@@ -1,3 +1,30 @@
 @charset "UTF-8";
 /* CSS Document */
 
+
+.if {
+	background-color:#000000;
+	width: 800px;
+	height: 514px;
+}
+
+	
+
+
+
+.if img { 
+  width: 400px;
+  height:514px;
+  float:left;
+	
+}
+.if p {
+	color:#FFFFFF;
+	
+	/*margin-top:300px;*/
+
+} 
+
+h1 {
+	color:red;
+}

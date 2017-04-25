@@ -6,6 +6,7 @@
 	background-color:#000000;
 	width: 800px;
 	height: 514px;
+	padding-top:30px;
 }
 
 	
@@ -21,10 +22,25 @@
 .if p {
 	color:#FFFFFF;
 	
-	/*margin-top:300px;*/
-
+	padding-top:200px;
+	
 } 
 
 h1 {
 	color:red;
+}
+h2 {
+	color:#A3A3A3;
+	margin-left:200px;
+}
+.bottom img {
+	width:200px;
+	height:auto;
+	float:right;
+	
+}
+
+.bottom p{
+	width:400px;
+	
 }

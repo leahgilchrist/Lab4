@@ -21,8 +21,9 @@
 }
 .if p {
 	color:#FFFFFF;
-	
-	padding-top:200px;
+	width:600px;
+	padding-top:300px;
+	line-height:30px;
 	
 } 
 
